@@ -1,6 +1,6 @@
-# BOC-SDK-4J使用说明
+# FCM-SDK-4J使用说明
 
-`SDK-4J`是给用JAVA对接`BOC-API`模块的合作伙伴提供的开发组件。
+`SDK-4J`是给用JAVA对接`FCM-API`模块的合作伙伴提供的开发组件。
 
 ## maven
 
